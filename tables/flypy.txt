@@ -6,6 +6,42 @@ e2=p11+p12+p21+p22
 e3=p11+p21+p31+p32
 a4=p11+p21+p31+n11
 [Data]
+vidc    知道
+ving    只能
+jmdj    简单
+jisr    计算
+yixx    一下
+yivi    一直
+yidk    一定
+viui    只是
+anui    按时
+erui    而是
+igww    成为
+xnui    小时
+jmvi    简直
+mcsi    貌似
+jkcd    精彩
+rfwu    任务
+uijm    时间
+uvpk    水平
+lwsi    类似
+uiui    试试
+ufsi    神似
+irts    传统
+tdwj    台湾
+fjyk    反应
+mwvz    每周
+lmxi    联系
+xmjb    现金
+qijm    期间
+jiqi    极其
+zdxm    在线
+vihv    只会
+yipm    一片
+mwli    美丽
+jiww    几位
+
+
 a	啊
 aa	阿
 aab	阿爸
@@ -57633,3 +57669,13 @@ bmls	辫
 dsh	东
 yiyd	一唱一和
 dye	单元
+
+;ouj $fullhour:$minute　周$weekday_cn
+;ouj $fullhour点$minute分
+;orq $year年$month月$day日
+;orq $year-$month_mm-$day_dd
+
+xhgw    https://flypy.com
+xhlt    https://bbs.flypy.com
+xhwp    http://flypy.ys168.com
+xhrm    https://help.flypy.com
