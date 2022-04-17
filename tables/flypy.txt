@@ -57672,6 +57672,8 @@ dye	单元
 
 orq (当前日期中文)
 orq (当前日期)
+ouj (当前时间周)
+ouj (当前时间中文)
 ouj (当前时间)
 
 xhgw    https://flypy.com
