@@ -11,7 +11,9 @@
 ## Build
 
 ```bash
-sudo apt-get install build-essential cmake-extras extra-cmake-modules gettext appstream libecm-dev libfcitx5core-dev libboost-dev libimecore-dev libimetable-dev
+sudo ap install build-essential cmake-extras extra-cmake-modules \
+                gettext appstream libecm-dev \
+                ibfcitx5core-dev libboost-dev libimecore-dev libimetable-dev
 make build
 cd build
 cmake .. -DCMAKE_INSTALL_PREFIX=/usr
