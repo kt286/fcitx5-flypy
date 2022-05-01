@@ -6,7 +6,7 @@
 
 ## Requirements
 
-  You need to install fcitx5-table and libime first.
+  You need to install fcitx5-table fcitx5-lua and libime first.
 
 ## Build
 
