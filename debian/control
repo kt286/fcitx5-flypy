@@ -1,0 +1,34 @@
+Source: fcitx5-flypy
+Priority: optional
+Section: utils
+Maintainer: Cloud <kt286@qq.com>
+Uploaders:
+ Cloud <kt286@qq.com>,
+Build-Depends:
+ appstream,
+ cmake (>= 3.6.0),
+ debhelper-compat (= 13),
+ extra-cmake-modules,
+ gettext,
+ libfcitx5config-dev (>= 5.0.11),
+ libfcitx5core-dev (>= 5.0.11),
+ libfcitx5utils-dev (>= 5.0.11),
+ libimecore-dev (>= 1.0.11),
+ libimetable-dev (>= 1.0.11),
+ pkg-config,
+Standards-Version: 4.6.0
+Rules-Requires-Root: no
+Homepage: https://github.com/kt286/fcitx5-flypy
+Vcs-Git: hhttps://github.com/kt286/fcitx5-flypy.git
+Vcs-Browser: https://github.com/kt286/fcitx5-flypy
+
+Package: fcitx5-flypy
+Section: metapackages
+Architecture: all
+Multi-Arch: foreign
+Depends:
+ fcitx5,
+ fcitx5-module-lua,
+ fcitx5-table,
+ ${misc:Depends},
+Description: fcitx5-flypy provides flypy table for fcitx5.
