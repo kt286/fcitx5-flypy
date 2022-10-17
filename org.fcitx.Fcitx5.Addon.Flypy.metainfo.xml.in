@@ -10,6 +10,7 @@
   <url type="homepage">https://www.flypy.com/</url>
   <project_group>Fcitx</project_group>
   <releases>
+    <release version="5.0.3" date="2022-10-17" />
     <release version="5.0.2" date="2022-08-08" />
     <release version="5.0.1" date="2022-07-02" />
     <release version="5.0.0" date="2022-04-02" />
